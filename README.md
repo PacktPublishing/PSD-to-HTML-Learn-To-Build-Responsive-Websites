@@ -19,7 +19,7 @@ The world of technology has already come so far and going back to the start is n
 ### Assumed Knowledge
 To fully benefit from the coverage included in this course, you will need:<br/>
 <DIV class=book-info-will-learn-text>
-Anyone who wants to learn responsive design will find this course very useful. 
+<li>Anyone who wants to learn responsive design will find this course very useful. </li>
 <DIV>
 
 ### Technical Requirements
